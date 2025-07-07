@@ -1,3 +1,27 @@
+# React + Tailwind Product Gallery 
+
+This is a responsive product gallery built with React and Tailwind CSS.
+
+## Features
+- Responsive grid layout (1/2/3 columns for sm/md/lg)
+- Product cards with image, name, price, and Add to Cart button
+- Search filter for product names (case-insensitive)
+- Mobile-first, clean UI using only Tailwind utility classes
+
+## How to Run
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+2. **Start the development server:**
+   ```bash
+   npm start
+   ```
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+This project was built as a rapid UI implementation exercise to demonstrate proficiency with React, hooks, and Tailwind CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,10 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
